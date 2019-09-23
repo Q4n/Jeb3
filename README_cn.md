@@ -34,4 +34,6 @@
 
 将jar重新打包一遍, 覆盖原来的`bin\app\jeb.jar` 
 
-Enjoy urself !
+Enjoy yourself!
+
+> 我这里附上了我patch的jar，基于jdk1.8。根据经验，在别的电脑上不一定能用？
